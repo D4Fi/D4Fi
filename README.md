@@ -11,6 +11,10 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </div><br>
 
+<img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.-cyWrkZ1Y4gnObYhGu9EAwAAAA%26pid%3DApi&f=1&ipt=47d4acb41e114394971e6af81b8ba95451997bf0bc6bd27c05bba11ec5f287a9&ipo=images" />
+
+
+
 
 ![D4Fi GitHub stats](https://github-readme-stats.vercel.app/api?username=D4Fi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4Fi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
