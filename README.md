@@ -1,18 +1,6 @@
 ### Hello, I am Daniel!!! <br>
 ### Developer and author of the AutoFi library, published on pypi !!
 
-
-
-
-![D4Fi GitHub stats](https://github-readme-stats.vercel.app/api?username=D4Fi&show_icons=true&theme=radical)
-
-
-
-
-
-
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
@@ -23,6 +11,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </div><br>
 
+
+![D4Fi GitHub stats](https://github-readme-stats.vercel.app/api?username=D4Fi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4Fi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
