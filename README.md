@@ -1,4 +1,4 @@
-
+<hr>
 
 ### <h1 align='center'> Hello, I am Daniel</h1>
 ### Developer and author of the AutoFi library, published on pypi https://pypi.org !!
