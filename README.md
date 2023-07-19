@@ -4,6 +4,7 @@
 ### Developer and author of the AutoFi library, published on pypi https://pypi.org !!
 <br>
 
+<hr>
 
 <br>
 
@@ -14,6 +15,11 @@
 <br>
 <br>
 
+
+
+  <summary>
+  <h3> 📚 Social Midia</h3>
+  </summary>
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -48,6 +54,15 @@
 
 
 
+<hr>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
+
+I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
+
+I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
+
 
 
 
@@ -65,7 +80,7 @@
 
 <br>
 <br>
-
+<hr>
 
 
 
@@ -104,6 +119,7 @@
 
 
 
+<hr>
 
 ## Favorit ebooks
 <div align="center">
@@ -114,7 +130,7 @@
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.h9AzDOU5zqmMAa4DP64GnwHaJ8%26pid%3DApi&f=1&ipt=fcdc17a100c0feee0e5075d041de54558ebb24908b93616329aeef25f9ff12a8&ipo=images" />
 </div>
 
-
+<hr>
 
 
 
