@@ -11,6 +11,10 @@
 
 <br>
 
+<h4 align="center">
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center"> My Github Stats <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30" height="30" align="center">
+</h4>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=D4Fi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4Fi&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -33,8 +37,6 @@
 </div>
 <br>
 <br>
-
-
 
 
 
@@ -139,6 +141,8 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 
 
 
+
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
 
 
