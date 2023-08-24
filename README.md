@@ -7,7 +7,7 @@
 ### Developer and author of the AutoFi library, published on pypi https://pypi.org !!
 <br>
 
-<hr>  
+<hr>   
    
 <br>
 
