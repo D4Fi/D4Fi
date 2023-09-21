@@ -79,7 +79,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
 </div><br>
 
 <br>
-<br>
+
 <hr>
 
 
