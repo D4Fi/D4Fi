@@ -128,6 +128,9 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.b3pAJT41DRn8sBZ-GeKfVQAAAA%26pid%3DApi&f=1&ipt=30d196ff402d8c80576a3b7f349bdf2f4072383bd20679162cedac5ca9420b68&ipo=images" />
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Kroo7mqB1v5_GOh8xly5OQAAAA%26pid%3DApi&f=1&ipt=b5892e57c744d79700f0c52fee743b151305b908d27f31ccac49cf25b1e7bff9&ipo=images" />
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.h9AzDOU5zqmMAa4DP64GnwHaJ8%26pid%3DApi&f=1&ipt=fcdc17a100c0feee0e5075d041de54558ebb24908b93616329aeef25f9ff12a8&ipo=images" />
+
+  <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/I/811EGiSqCPL.jpg" />
+   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://dataat.github.io/introducao-ao-machine-learning/assets/capa.png" />
 </div>
 
 <hr>
