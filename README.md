@@ -130,7 +130,7 @@ I never give up. I prefer to keep learning, continue challenging myself, and do 
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.h9AzDOU5zqmMAa4DP64GnwHaJ8%26pid%3DApi&f=1&ipt=fcdc17a100c0feee0e5075d041de54558ebb24908b93616329aeef25f9ff12a8&ipo=images" />
 
   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://images-na.ssl-images-amazon.com/images/I/811EGiSqCPL.jpg" />
-   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://dataat.github.io/introducao-ao-machine-learning/assets/capa.png" />
+   <img align="center" alt="Rafa-CSS" height="200" width="150" src="https://github.com/D4Fi/D4Fi/assets/139288494/a7e7b66c-a835-49ca-a2d3-eafc0690086c" />
 </div>
 
 <hr>
